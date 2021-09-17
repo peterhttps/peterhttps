@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" align="center" style="width: 100%" />
 </div>  
 <h1 align="center">Hi 👋, I'm Pedro Lucas</h1>  
-<h3 align="center">A passionated web dev</h3>  
+<h3 align="center">A passionated dev</h3>  
   
 <br />
 
