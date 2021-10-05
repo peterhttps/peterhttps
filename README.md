@@ -5,7 +5,7 @@
 
 <h1> Hi 👋, I'm Pedro Lucas! </h1>
 
-![status](https://img.shields.io/badge/status-up-brightgreen) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/peterhttps)
+![status](https://img.shields.io/badge/status-up-brightgreen) ![visitors](https://komarev.com/ghpvc/?username=peterhttps&label=Profile%20views&color=0e75b6&style=flat)
 
 
 ```js
