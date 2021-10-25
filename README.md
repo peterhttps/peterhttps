@@ -25,7 +25,7 @@ if (alive) {
 
 - 🔭 Actively studying the web universe
 
-- 😎 Currently learning Rust and some other things   
+- 😎 Currently learning low level programming and some other things   
 
 - 👯 I’m looking to collaborate on Projects, Tech Articles 
 
