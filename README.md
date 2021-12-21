@@ -13,10 +13,6 @@ const profile = {
   name: "Pedro Lucas",
   job: "Web developer"
 }
-
-if (alive) {
-  console.log("Stay aweasome");
-}
 ```
 
 <h2> About Me </h2>
