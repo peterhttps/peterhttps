@@ -25,7 +25,6 @@ const profile = {
 
 - 👯 I’m looking to collaborate on Projects, Tech Articles 
 
-- 💬 The typescript man
 
 <br />
 
